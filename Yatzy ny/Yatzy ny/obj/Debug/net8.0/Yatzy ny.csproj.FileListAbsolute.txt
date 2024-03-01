@@ -1,0 +1,14 @@
+C:\Users\peter\OneDrive\Desktop\UCL\1. Semester\Projekt yatzy\Yatzy ny\Yatzy ny\obj\Debug\net8.0\Yatzy ny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\OneDrive\Desktop\UCL\1. Semester\Projekt yatzy\Yatzy ny\Yatzy ny\obj\Debug\net8.0\Yatzy ny.AssemblyInfoInputs.cache
+C:\Users\peter\OneDrive\Desktop\UCL\1. Semester\Projekt yatzy\Yatzy ny\Yatzy ny\obj\Debug\net8.0\Yatzy ny.AssemblyInfo.cs
+C:\Users\peter\OneDrive\Desktop\UCL\1. Semester\Projekt yatzy\Yatzy ny\Yatzy ny\obj\Debug\net8.0\Yatzy ny.csproj.CoreCompileInputs.cache
+C:\Users\peter\OneDrive\Desktop\UCL\1. Semester\Projekt yatzy\Yatzy ny\Yatzy ny\bin\Debug\net8.0\Yatzy ny.exe
+C:\Users\peter\OneDrive\Desktop\UCL\1. Semester\Projekt yatzy\Yatzy ny\Yatzy ny\bin\Debug\net8.0\Yatzy ny.deps.json
+C:\Users\peter\OneDrive\Desktop\UCL\1. Semester\Projekt yatzy\Yatzy ny\Yatzy ny\bin\Debug\net8.0\Yatzy ny.runtimeconfig.json
+C:\Users\peter\OneDrive\Desktop\UCL\1. Semester\Projekt yatzy\Yatzy ny\Yatzy ny\bin\Debug\net8.0\Yatzy ny.dll
+C:\Users\peter\OneDrive\Desktop\UCL\1. Semester\Projekt yatzy\Yatzy ny\Yatzy ny\bin\Debug\net8.0\Yatzy ny.pdb
+C:\Users\peter\OneDrive\Desktop\UCL\1. Semester\Projekt yatzy\Yatzy ny\Yatzy ny\obj\Debug\net8.0\Yatzy ny.dll
+C:\Users\peter\OneDrive\Desktop\UCL\1. Semester\Projekt yatzy\Yatzy ny\Yatzy ny\obj\Debug\net8.0\refint\Yatzy ny.dll
+C:\Users\peter\OneDrive\Desktop\UCL\1. Semester\Projekt yatzy\Yatzy ny\Yatzy ny\obj\Debug\net8.0\Yatzy ny.pdb
+C:\Users\peter\OneDrive\Desktop\UCL\1. Semester\Projekt yatzy\Yatzy ny\Yatzy ny\obj\Debug\net8.0\Yatzy ny.genruntimeconfig.cache
+C:\Users\peter\OneDrive\Desktop\UCL\1. Semester\Projekt yatzy\Yatzy ny\Yatzy ny\obj\Debug\net8.0\ref\Yatzy ny.dll

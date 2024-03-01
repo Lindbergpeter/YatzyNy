@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Yatzy ny/1.0.0": {
+        "runtime": {
+          "Yatzy ny.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yatzy ny/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
